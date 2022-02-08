@@ -1,5 +1,5 @@
 import React, { Component }  from 'react'
-import  fruta from ''
+import  fruta from './morango.jpg'
 
 class DadosPessoais extends Component {
   state = {
